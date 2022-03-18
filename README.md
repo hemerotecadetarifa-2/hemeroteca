@@ -5,3 +5,7 @@
 
 
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 1 - Año 2018.pdf" target="_blank"> La Revista de Tarifa al Día 1 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 2 - Año 2018.pdf" target="_blank"> La Revista de Tarifa al Día 2 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 3 - Año 2018.pdf" target="_blank"> La Revista de Tarifa al Día 3 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 4 - Año 2019.pdf" target="_blank"> La Revista de Tarifa al Día 4 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 5 - Año 2018.pdf" target="_blank"> La Revista de Tarifa al Día 5 </a> <br>
