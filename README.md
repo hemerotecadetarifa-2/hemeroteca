@@ -32,3 +32,11 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 400 - Año 1932.pdf" target="_blank"> Unión de Tarifa 400 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 401 - Año 1932.pdf" target="_blank"> Unión de Tarifa 401 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 402 - Año 1932.pdf" target="_blank"> Unión de Tarifa 402 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 403 - Año 1932.pdf" target="_blank"> Unión de Tarifa 403 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 404 - Año 1932.pdf" target="_blank"> Unión de Tarifa 404 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 405 - Año 1932.pdf" target="_blank"> Unión de Tarifa 405 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 406 - Año 1932.pdf" target="_blank"> Unión de Tarifa 406 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 407 - Año 1932.pdf" target="_blank"> Unión de Tarifa 407 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 408 - Año 1932.pdf" target="_blank"> Unión de Tarifa 408 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 409 - Año 1932.pdf" target="_blank"> Unión de Tarifa 409 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 410 - Año 1932.pdf" target="_blank"> Unión de Tarifa 410 </a> <br>
