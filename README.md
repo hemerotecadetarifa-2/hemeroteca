@@ -12,3 +12,6 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Dia - 6 - Año 2020.pdf" target="_blank"> La Revista de Tarifa al Día 6 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 7 - Año 2020.pdf" target="_blank"> La Revista de Tarifa al Día 7 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 8 - Año 2021.pdf" target="_blank"> La Revista de Tarifa al Día 8 </a> <br>
+
+
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 385 - Año 1932.pdf" target="_blank"> Unión de Tarifa 385 </a> <br>
