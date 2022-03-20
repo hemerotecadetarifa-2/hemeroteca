@@ -94,3 +94,16 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 464 - Año 1933.pdf" target="_blank"> Unión de Tarifa 464 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 465 - Año 1934.pdf" target="_blank"> Unión de Tarifa 465 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 466 - Año 1934.pdf" target="_blank"> Unión de Tarifa 466 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 467 - Año 1934.pdf" target="_blank"> Unión de Tarifa 467 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 468 - Año 1934.pdf" target="_blank"> Unión de Tarifa 468 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 469 - Año 1934.pdf" target="_blank"> Unión de Tarifa 469 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 470 - Año 1934.pdf" target="_blank"> Unión de Tarifa 470 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 471 - Año 1934.pdf" target="_blank"> Unión de Tarifa 471 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 472 - Año 1934.pdf" target="_blank"> Unión de Tarifa 472 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 473 - Año 1934.pdf" target="_blank"> Unión de Tarifa 473 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 474 - Año 1934.pdf" target="_blank"> Unión de Tarifa 474 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 475 - Año 1934.pdf" target="_blank"> Unión de Tarifa 475 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 476 - Año 1934.pdf" target="_blank"> Unión de Tarifa 476 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 477 - Año 1934.pdf" target="_blank"> Unión de Tarifa 477 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 478 - Año 1934.pdf" target="_blank"> Unión de Tarifa 478 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 479 - Año 1934.pdf" target="_blank"> Unión de Tarifa 479 </a> <br>
