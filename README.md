@@ -117,3 +117,16 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 497 - Año 1934.pdf" target="_blank"> Unión de Tarifa 497 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 498 - Año 1934.pdf" target="_blank"> Unión de Tarifa 498 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 499 - Año 1934.pdf" target="_blank"> Unión de Tarifa 499 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 500 - Año 1934.pdf" target="_blank"> Unión de Tarifa 500 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 501 - Año 1934.pdf" target="_blank"> Unión de Tarifa 501 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 502 - Año 1934.pdf" target="_blank"> Unión de Tarifa 502 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 503 - Año 1934.pdf" target="_blank"> Unión de Tarifa 503 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 504 - Año 1934.pdf" target="_blank"> Unión de Tarifa 504 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 505 - Año 1934.pdf" target="_blank"> Unión de Tarifa 505 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 506 - Año 1934.pdf" target="_blank"> Unión de Tarifa 506 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 507 - Año 1934.pdf" target="_blank"> Unión de Tarifa 507 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 508 - Año 1934.pdf" target="_blank"> Unión de Tarifa 508 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 509 - Año 1934.pdf" target="_blank"> Unión de Tarifa 509 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 510 - Año 1934.pdf" target="_blank"> Unión de Tarifa 510 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 511 - Año 1934.pdf" target="_blank"> Unión de Tarifa 511 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 512 - Año 1934.pdf" target="_blank"> Unión de Tarifa 512 </a> <br>
