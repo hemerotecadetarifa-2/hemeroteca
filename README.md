@@ -146,3 +146,11 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 8 - Año 2006.pdf" target="_blank"> El Duende 8 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 9 - Año 2006.pdf" target="_blank"> El Duende 9 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 10 - Año 2006.pdf" target="_blank"> El Duende 10 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 11 - Año 2006.pdf" target="_blank"> El Duende 11 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 12 - Año 2006.pdf" target="_blank"> El Duende 12 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 13 - Año 2006.pdf" target="_blank"> El Duende 13 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 14 - Año 2006.pdf" target="_blank"> El Duende 14 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 15 - Año 2006.pdf" target="_blank"> El Duende 15 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 16 - Año 2006.pdf" target="_blank"> El Duende 16 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 17 - Año 2006.pdf" target="_blank"> El Duende 17 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 18 - Año 2006.pdf" target="_blank"> El Duende 18 </a> <br>
