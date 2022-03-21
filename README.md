@@ -162,7 +162,7 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 24 - Año 2006.pdf" target="_blank"> El Duende 24 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 25 - Año 2006.pdf" target="_blank"> El Duende 25 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 26 - Año 2006.pdf" target="_blank"> El Duende 26 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende -27 - Año 2006.pdf" target="_blank"> El Duende 27 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende  -27 - Año 2006.pdf" target="_blank"> El Duende 27 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 28 - Año 2006.pdf" target="_blank"> El Duende 28 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 29 - Año 2006.pdf" target="_blank"> El Duende 29 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 30 - Año 2006.pdf" target="_blank"> El Duende 30 </a> <br>
