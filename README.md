@@ -130,3 +130,7 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 510 - Año 1934.pdf" target="_blank"> Unión de Tarifa 510 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 511 - Año 1934.pdf" target="_blank"> Unión de Tarifa 511 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 512 - Año 1934.pdf" target="_blank"> Unión de Tarifa 512 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 513 - Año 1934.pdf" target="_blank"> Unión de Tarifa 513 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 524 - Año 1934.pdf" target="_blank"> Unión de Tarifa 514 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 515 - Año 1934.pdf" target="_blank"> Unión de Tarifa 515 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 516 - Año 1934.pdf" target="_blank"> Unión de Tarifa 516 </a> <br>
