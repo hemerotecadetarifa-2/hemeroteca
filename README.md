@@ -136,8 +136,13 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Unión de Tarifa - 516 - Año 1934.pdf" target="_blank"> Unión de Tarifa 516 </a> <br>
 
 
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 1 - Año 2006.pdf" target="_blank"> Unión de Tarifa 1 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El duende - 2 - Año 2006.pdf" target="_blank"> Unión de Tarifa 2 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 3 - Año 2006.pdf" target="_blank"> Unión de Tarifa 3 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 4 - Año 2006.pdf" target="_blank"> Unión de Tarifa 4 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 5 - Año 2006.pdf" target="_blank"> Unión de Tarifa 5 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 1 - Año 2006.pdf" target="_blank"> El Duende 1 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 2 - Año 2006.pdf" target="_blank"> El Duende 2 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 3 - Año 2006.pdf" target="_blank"> El Duende 3 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 4 - Año 2006.pdf" target="_blank"> El Duende 4 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 5 - Año 2006.pdf" target="_blank"> El Duende 5 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 6 - Año 2006.pdf" target="_blank"> El Duende 6 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 7 - Año 2006.pdf" target="_blank"> El Duende 7 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 8 - Año 2006.pdf" target="_blank"> El Duende 8 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 9 - Año 2006.pdf" target="_blank"> El Duende 9 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 10 - Año 2006.pdf" target="_blank"> El Duende 10 </a> <br>
