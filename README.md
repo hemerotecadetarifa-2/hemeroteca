@@ -199,3 +199,16 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 64 - Año 2007.pdf" target="_blank"> El Duende 64 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 65 - Año 2007.pdf" target="_blank"> El Duende 65 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 66 - Año 2007.pdf" target="_blank"> El Duende 66 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 67 - Año 2007.pdf" target="_blank"> El Duende 67 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 68 - Año 2007.pdf" target="_blank"> El Duende 68 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 69 - Año 2007.pdf" target="_blank"> El Duende 69 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 70 - Año 2007.pdf" target="_blank"> El Duende 70 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 71 - Año 2007.pdf" target="_blank"> El Duende 71 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 72 - Año 2007.pdf" target="_blank"> El Duende 72 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 73 - Año 2007.pdf" target="_blank"> El Duende 73 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 74 - Año 2007.pdf" target="_blank"> El Duende 74 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 75 - Año 2007.pdf" target="_blank"> El Duende 75 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 76 - Año 2007.pdf" target="_blank"> El Duende 76 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 77 - Año 2007.pdf" target="_blank"> El Duende 77 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 78 - Año 2007.pdf" target="_blank"> El Duende 78 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 79 - Año 2007.pdf" target="_blank"> El Duende 79 </a> <br>
