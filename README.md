@@ -227,7 +227,7 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 92 - Año 2008.pdf" target="_blank"> El Duende 92 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 93 - Año 2008.pdf" target="_blank"> El Duende 93 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 94 - Año 2008.pdf" target="_blank"> El Duende 94 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 85 - Año 2008.pdf" target="_blank"> El Duende 95 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 95 - Año 2008.pdf" target="_blank"> El Duende 95 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 96 - Año 2008.pdf" target="_blank"> El Duende 96 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 97 - Año 2008.pdf" target="_blank"> El Duende 97 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 98 - Año 2008.pdf" target="_blank"> El Duende 98 </a> <br>
