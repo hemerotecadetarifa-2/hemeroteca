@@ -191,3 +191,11 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 56 - Año 2007.pdf" target="_blank"> El Duende 56 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 57 - Año 2007.pdf" target="_blank"> El Duende 57 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 58 - Año 2007.pdf" target="_blank"> El Duende 58 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 59 - Año 2007.pdf" target="_blank"> El Duende 59 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 60 - Año 2007.pdf" target="_blank"> El Duende 60 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 61 - Año 2007.pdf" target="_blank"> El Duende 61 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 62 - Año 2007.pdf" target="_blank"> El Duende 62 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 63 - Año 2007.pdf" target="_blank"> El Duende 63 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 64 - Año 2007.pdf" target="_blank"> El Duende 64 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 65 - Año 2007.pdf" target="_blank"> El Duende 65 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 66 - Año 2007.pdf" target="_blank"> El Duende 66 </a> <br>
