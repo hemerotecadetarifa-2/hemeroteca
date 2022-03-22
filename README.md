@@ -212,3 +212,17 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 77 - Año 2007.pdf" target="_blank"> El Duende 77 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 78 - Año 2007.pdf" target="_blank"> El Duende 78 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 79 - Año 2007.pdf" target="_blank"> El Duende 79 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 80 - Año 2007.pdf" target="_blank"> El Duende 80 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 81 - Año 2007.pdf" target="_blank"> El Duende 81 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 82 - Año 2007.pdf" target="_blank"> El Duende 82 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 83 - Año 2007.pdf" target="_blank"> El Duende 83 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 84 - Año 2007.pdf" target="_blank"> El Duende 84 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 85 - Año 2007.pdf" target="_blank"> El Duende 85 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 86 - Año 2007.pdf" target="_blank"> El Duende 86 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 87 - Año 2007.pdf" target="_blank"> El Duende 87 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 88 - Año 2007.pdf" target="_blank"> El Duende 88 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 89 - Año 2007.pdf" target="_blank"> El Duende 89 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 90 - Año 2007.pdf" target="_blank"> El Duende 90 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 91 - Año 2007.pdf" target="_blank"> El Duende 91 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 92 - Año 2007.pdf" target="_blank"> El Duende 92 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 93 - Año 2007.pdf" target="_blank"> El Duende 93 </a> <br>
