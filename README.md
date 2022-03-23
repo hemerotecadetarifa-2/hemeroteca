@@ -239,3 +239,6 @@
 
 
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Vox Populi - 1 - Año 1911.pdf" target="_blank"> Vox Populi 1 </a> <br>
+
+
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Preogreso - 14 - Año 1931.pdf" target="_blank"> El Progreso 14 </a> <br>
