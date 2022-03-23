@@ -233,4 +233,9 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 98 - Año 2008.pdf" target="_blank"> El Duende 98 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 99 - Año 2008.pdf" target="_blank"> El Duende 99 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Duende - 100 - Año 2008.pdf" target="_blank"> El Duende 100 </a> <br>
+
+
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Nuevo Obrero - 63 - Año 1901.pdf" target="_blank"> Nuevo Obrero 63 </a> <br>
+
+
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Vox Populi - 1 - Año 1911.pdf" target="_blank"> Vox Populi 1 </a> <br>
