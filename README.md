@@ -247,5 +247,19 @@
 
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1916.pdf" target="_blank"> Virgen de la Luz - Año 1916 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1917.pdf" target="_blank"> Virgen de la Luz - Año 1917 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1927.pdf" target="_blank"> Virgen de la Luz - Año 1927 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1930.pdf" target="_blank"> Virgen de la Luz - Año 1930 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1933.pdf" target="_blank"> Virgen de la Luz - Año 1933 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1934.pdf" target="_blank"> Virgen de la Luz - Año 1934 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1940.pdf" target="_blank"> Virgen de la Luz - Año 1940 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1941.pdf" target="_blank"> Virgen de la Luz - Año 1941 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1942.pdf" target="_blank"> Virgen de la Luz - Año 1942 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1945.pdf" target="_blank"> Virgen de la Luz - Año 19145 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1945 Cabalgata Agrícola.pdf" target="_blank"> Virgen de la Luz - Año 1945 Cabalgata Agrícola </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1946.pdf" target="_blank"> Virgen de la Luz - Año 1946 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1947.pdf" target="_blank"> Virgen de la Luz - Año 1947 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1948.pdf" target="_blank"> Virgen de la Luz - Año 1948 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1949.pdf" target="_blank"> Virgen de la Luz - Año 1949 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1950.pdf" target="_blank"> Virgen de la Luz - Año 1950 </a> <br>
 
 
