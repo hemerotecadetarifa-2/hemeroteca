@@ -246,5 +246,5 @@
 
 
 
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1916.pdf" target="_blank"> Virgen de la Luz - Año 1916 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1917.pdf" target="_blank"> Virgen de la Luz - Año 1917 </a> <br>
 
