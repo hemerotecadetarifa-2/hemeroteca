@@ -242,3 +242,9 @@
 
 
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Progreso - 14 - Año 1931.pdf" target="_blank"> El Progreso 14 </a> <br>
+
+
+
+
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1916.pdf" target="_blank"> Virgen de la Luz - Año 1916 </a> <br>
+
