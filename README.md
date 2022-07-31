@@ -254,7 +254,7 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1940.pdf" target="_blank"> Virgen de la Luz - Año 1940 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1941.pdf" target="_blank"> Virgen de la Luz - Año 1941 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1942.pdf" target="_blank"> Virgen de la Luz - Año 1942 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1945.pdf" target="_blank"> Virgen de la Luz - Año 19145 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1945.pdf" target="_blank"> Virgen de la Luz - Año 1945 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1945 Cabalgata Agrícola.pdf" target="_blank"> Virgen de la Luz - Año 1945 Cabalgata Agrícola </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1946.pdf" target="_blank"> Virgen de la Luz - Año 1946 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1947.pdf" target="_blank"> Virgen de la Luz - Año 1947 </a> <br>
