@@ -294,8 +294,7 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1983.pdf" target="_blank"> Virgen de la Luz - Año 1983 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1984.pdf" target="_blank"> Virgen de la Luz - Año 1984 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1985.pdf" target="_blank"> Virgen de la Luz - Año 1985 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1986.pdf" target="_blank"> Virgen de la Luz - Año 1986 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1987.pdf" target="_blank"> Virgen de la Luz - Año 1987 </a> <br>
+
 
 
 
