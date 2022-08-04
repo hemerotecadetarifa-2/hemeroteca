@@ -316,7 +316,13 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2003.pdf" target="_blank"> Virgen de la Luz - Año 2003 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2004.pdf" target="_blank"> Virgen de la Luz - Año 2004 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2005.pdf" target="_blank"> Virgen de la Luz - Año 2005 </a> <br>
-<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 1 - Año 2006.pdf" target="_blank"> Virgen de la Luz  - 1- Año 2006 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 1 - Año 2006.pdf" target="_blank"> Virgen de la Luz  - 1 - Año 2006 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 2 - Año 2007.pdf" target="_blank"> Virgen de la Luz  - 2 - Año 2007 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 3 - Año 2008.pdf" target="_blank"> Virgen de la Luz  - 3 - Año 2008 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 4 - Año 2009.pdf" target="_blank"> Virgen de la Luz  - 4 - Año 2009 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 5 - Año 2010.pdf" target="_blank"> Virgen de la Luz  - 5 - Año 2010 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 6 - Año 2011.pdf" target="_blank"> Virgen de la Luz  - 6 - Año 2011 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 7 - Año 2012.pdf" target="_blank"> Virgen de la Luz  - 7 - Año 2012 </a> <br>
 
 
 
