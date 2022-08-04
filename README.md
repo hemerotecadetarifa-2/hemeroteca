@@ -316,6 +316,8 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2003.pdf" target="_blank"> Virgen de la Luz - Año 2003 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2004.pdf" target="_blank"> Virgen de la Luz - Año 2004 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2005.pdf" target="_blank"> Virgen de la Luz - Año 2005 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 1 - Año 2006.pdf" target="_blank"> Virgen de la Luz  - 1- Año 2006 </a> <br>
+
 
 
 
