@@ -296,7 +296,6 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1983.pdf" target="_blank"> Virgen de la Luz - Año 1983 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1984.pdf" target="_blank"> Virgen de la Luz - Año 1984 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1985.pdf" target="_blank"> Virgen de la Luz - Año 1985 </a> <br>
-
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1986.pdf" target="_blank"> Virgen de la Luz - Año 1986 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1987.pdf" target="_blank"> Virgen de la Luz - Año 1987 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1988.pdf" target="_blank"> Virgen de la Luz - Año 1988 </a> <br>
@@ -311,6 +310,12 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1997.pdf" target="_blank"> Virgen de la Luz - Año 1997 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1998.pdf" target="_blank"> Virgen de la Luz - Año 1998 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1999.pdf" target="_blank"> Virgen de la Luz - Año 1999 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2000.pdf" target="_blank"> Virgen de la Luz - Año 2000 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2001.pdf" target="_blank"> Virgen de la Luz - Año 2001 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2002.pdf" target="_blank"> Virgen de la Luz - Año 2002 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2003.pdf" target="_blank"> Virgen de la Luz - Año 2003 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2004.pdf" target="_blank"> Virgen de la Luz - Año 2004 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 2005.pdf" target="_blank"> Virgen de la Luz - Año 2005 </a> <br>
 
 
 
