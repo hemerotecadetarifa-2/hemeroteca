@@ -334,6 +334,14 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - 16 - Año 2021.pdf" target="_blank"> Virgen de la Luz  - 16 - Año 2021 </a> <br>
 
 
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1935.pdf" target="_blank"> Programa de Feria - Año 1935 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1946.pdf" target="_blank"> Programa de Feria - Año 1946 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1947.pdf" target="_blank"> Programa de Feria - Año 1947 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1948.pdf" target="_blank"> Programa de Feria - Año 1948 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1949.pdf" target="_blank"> Programa de Feria - Año 1949 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1950.pdf" target="_blank"> Programa de Feria - Año 1950 </a> <br>
+
+
 
 
 
