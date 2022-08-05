@@ -244,7 +244,7 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/El Progreso - 14 - Año 1931.pdf" target="_blank"> El Progreso 14 </a> <br>
 
 
-PROGRAMAS DE LA VIRGEN DE LA LUZ
+<a PROGRAMAS DE LA VIRGEN DE LA LUZ </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1916.pdf" target="_blank"> Virgen de la Luz - Año 1916 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1917.pdf" target="_blank"> Virgen de la Luz - Año 1917 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Virgen de la Luz - Año 1927.pdf" target="_blank"> Virgen de la Luz - Año 1927 </a> <br>
