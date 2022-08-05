@@ -340,6 +340,10 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1948.pdf" target="_blank"> Programa de Feria - Año 1948 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1949.pdf" target="_blank"> Programa de Feria - Año 1949 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1950.pdf" target="_blank"> Programa de Feria - Año 1950 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1951.pdf" target="_blank"> Programa de Feria - Año 1951 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1952.pdf" target="_blank"> Programa de Feria - Año 1952 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1953.pdf" target="_blank"> Programa de Feria - Año 1953 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1954.pdf" target="_blank"> Programa de Feria - Año 1954 </a> <br>
 
 
 
