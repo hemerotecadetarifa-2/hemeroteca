@@ -362,6 +362,16 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1970.pdf" target="_blank"> Programa de Feria - Año 1970 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1971.pdf" target="_blank"> Programa de Feria - Año 1971 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1972.pdf" target="_blank"> Programa de Feria - Año 1972 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1973.pdf" target="_blank"> Programa de Feria - Año 1973 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1974.pdf" target="_blank"> Programa de Feria - Año 1974 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1975.pdf" target="_blank"> Programa de Feria - Año 1975 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1976.pdf" target="_blank"> Programa de Feria - Año 1976 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1977.pdf" target="_blank"> Programa de Feria - Año 1977 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1978.pdf" target="_blank"> Programa de Feria - Año 1978 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1979.pdf" target="_blank"> Programa de Feria - Año 1979 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1980.pdf" target="_blank"> Programa de Feria - Año 1980 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1981.pdf" target="_blank"> Programa de Feria - Año 1981 </a> <br>
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 1982.pdf" target="_blank"> Programa de Feria - Año 1982 </a> <br>
 
 
 
