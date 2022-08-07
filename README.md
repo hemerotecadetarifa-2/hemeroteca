@@ -409,6 +409,9 @@
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 2018.pdf" target="_blank"> Programa de Feria - Año 2018 </a> <br>
 <a href="https://hemerotecadetarifa-2.github.io/hemeroteca/Programa de Feria - Año 2019.pdf" target="_blank"> Programa de Feria - Año 2019 </a> <br>
 
+<a href="https://hemerotecadetarifa-2.github.io/hemeroteca/La Revista de Tarifa al Día - 10 - Año 2022.pdf" target="_blank"> La Revista de Tarifa al Día - 10 - - Año 2022 </a> <br>
+
+
 
 
 
